@@ -1,4 +1,4 @@
-#Matrix Addition
+#Matrix Multiplication
 matrix1 = [
     [10,20,30],
     [40,50,60],
